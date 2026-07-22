@@ -12,6 +12,7 @@ Features:
    • Scalable Backend: Built with Django REST Framework for efficient API handling.
    • Interactive Frontend: A responsive React application for easy interaction with the service.
 
+
 Backend
     • Django: High-level Python Web framework.
     • Django REST Framework: Powerful and flexible toolkit for building Web APIs.
