@@ -4,7 +4,7 @@ Web Scraping Service
 
 Dataflow is a web scraping service designed to extract data from websites. It provides a robust backend built with Django and Django REST Framework, and a modern frontend developed using React and TypeScript. This service allows users to define scraping configurations, specify elements to extract, and then perform scraping operations to retrieve desired information.
 
-Features:
+Features: 
    • User Authentication: Secure user registration and login system.
    • Scraping Configuration Management: Users can create, view, and manage their web scraping configurations
    • Dynamic Element Selection: Define specific HTML elements to scrape using CSS selectors.
