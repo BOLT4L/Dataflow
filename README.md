@@ -25,7 +25,7 @@ Frontend
     • TypeScript: Superset of JavaScript that adds static types.
     • React Router DOM: Declarative routing for React.
 
-Installation and Setup
+Installation and Setup 
 
 To set up Dataflow locally, follow these steps:
 
